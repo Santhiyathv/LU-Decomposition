@@ -50,7 +50,7 @@ print(solution)
 
 ## Output:
 ![lu decomposition]![Alt text](<Screenshot from 2024-12-08 12-55-46.png>)
-
+![Alt text](<Screenshot from 2024-12-08 13-34-38.png>)
 
 ## Result:
 Thus the program to find the LU Decomposition of a matrix is written and verified using python programming.
